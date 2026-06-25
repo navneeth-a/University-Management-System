@@ -1,4 +1,4 @@
---  30 SQL Scenarios & Queries
+-- SQL Scenarios & Queries
 
 -- 1.Retrieve all students from the Computer Science department ordered by CGPA.
 
